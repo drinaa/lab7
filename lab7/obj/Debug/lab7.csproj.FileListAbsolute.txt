@@ -1,0 +1,10 @@
+C:\Users\Darina\Desktop\универ\programming\lab7\bin\Debug\lab7.exe.config
+C:\Users\Darina\Desktop\универ\programming\lab7\bin\Debug\lab7.exe
+C:\Users\Darina\Desktop\универ\programming\lab7\bin\Debug\lab7.pdb
+C:\Users\Darina\Desktop\универ\programming\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+C:\Users\Darina\Desktop\универ\programming\lab7\obj\Debug\lab7.Form1.resources
+C:\Users\Darina\Desktop\универ\programming\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\Darina\Desktop\универ\programming\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+C:\Users\Darina\Desktop\универ\programming\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Darina\Desktop\универ\programming\lab7\obj\Debug\lab7.exe
+C:\Users\Darina\Desktop\универ\programming\lab7\obj\Debug\lab7.pdb
